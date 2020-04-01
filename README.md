@@ -1,37 +1,21 @@
-## Welcome to GitHub Pages
+# Symbiosis in Artificial Life Workshop
+## At ALIFE 2020
 
-You can use the [editor on GitHub](https://github.com/anyaevostinar/sal-workshop/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Symbiosis, a close and long-term interaction between two or more organisms from different species, is a ubiquitous phenomenon, found at all levels of life and nearly every context that we have looked for it. It is likely that microbiomes, a form of symbiosis, play a crucial role in the functioning of most higher-level organisms, in addition to the many better known examples of symbiosis from pollinators to parasites. Despite this prevalence in the natural world, many artificial life systems still lack symbiosis. Although there is much to learn from these systems focusing on single species, we are almost certainly ignoring important dynamics by excluding symbioses. Further, implementing symbiosis in an artificial life system presents challenges that are not easily solved in the most common approaches to artificial life. The Symbiosis in Artificial Life workshop will connect researchers interested in understanding symbiosis through artificial life by presenting the currently available models and discussing challenges, potential solutions, and next steps for the field.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The workshop will be held as part of the 2020 Conference on Artificial Life (ALIFE 2020). Like ALIFE 2020, the workshop will be online only and will have recorded invited and contributed talks with live Q&A with the keynote and submitted work authors. During the workshop time, there will also be an opportunity for participants to discuss ideas and next steps for the study of symbiosis using artificial life. The goal of the workshop is a review article summarizing the current state of the art and challenges.
 
-### Markdown
+## Submissions
+We welcome anyone to participate and encourage the submission of extended abstracts of 2-4 pages (MIT Press format). We are open to submissions concerning any way that artificial life can be used to study symbiosis. Our goal is to provide a resource on current systems that can be used to study symbiosis and so submissions describing current systems without reported results are welcome. Accepted submissions will be presented as recorded videos prior to the workshop and used in the writing of a review article. Participants will also be welcomed to contribute to the review article. Abstracts must be submitted to vostinar@grinnell.edu by June 15, 2020. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Important Dates
+* Abstract Submission: June 15, 2020
+* Author Notification: July 1, 2020
+* Workshop: TBD
+* ALIFE: July 13-18, 2020
 
-```markdown
-Syntax highlighted code block
+## Organizers
+* Anya E. Vostinar, vostinar@grinnell.edu
+* Luis Zaman, zamanlh@umich.edu
+* Erik Hom, erik@olemiss.edu 
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/anyaevostinar/sal-workshop/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
