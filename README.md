@@ -5,8 +5,19 @@ Symbiosis, a close and long-term interaction between two or more organisms from 
 
 The workshop will be held as part of the 2020 Conference on Artificial Life (ALIFE 2020). Like ALIFE 2020, the workshop will be online only and will have recorded invited and contributed talks with live Q&A with the keynote and submitted work authors. During the workshop time, there will also be an opportunity for participants to discuss ideas and next steps for the study of symbiosis using artificial life. The goal of the workshop is a review article summarizing the current state of the art and challenges.
 
-## Submissions
-We welcome anyone to participate and encourage the submission of extended abstracts of 2-4 pages (MIT Press format). We are open to submissions concerning any way that artificial life can be used to study symbiosis. Our goal is to provide a resource on current systems that can be used to study symbiosis and so submissions describing current systems without reported results are welcome. Accepted submissions will be presented as recorded videos prior to the workshop and used in the writing of a review article. Participants will also be welcomed to contribute to the review article. Abstracts must be submitted to vostinar@grinnell.edu by June 15, 2020. 
+## Schedule (in EDT)
+* 2:30-2:35: Welcome and explanation of process (Anya Vostinar)
+* 2:35-2:55: Keynote
+* 2:55-3:10: Speaker 1 (Luis Zaman)
+* 3:10-3:25: Speaker 2 (Erik Hom)
+* 3:25-3:40: Speaker 3 (Nadine Strasser)
+* 3:40-3:55: Speaker 4 (Anya Vostinar)
+* 3:55-4:15: Break
+* 4:15-4:25: Collecting topics for discussion/break-out groups
+* 4:25-5:15: Discussions
+* 5:15-5:25: Closing Remarks
+
+
 
 ## Important Dates
 * Abstract Submission: June 15, 2020
@@ -18,4 +29,8 @@ We welcome anyone to participate and encourage the submission of extended abstra
 * Anya E. Vostinar, vostinar@grinnell.edu
 * Luis Zaman, zamanlh@umich.edu
 * Erik Hom, erik@olemiss.edu 
+
+
+## Submissions
+We welcome anyone to participate and encourage the submission of extended abstracts of 2-4 pages (MIT Press format). We are open to submissions concerning any way that artificial life can be used to study symbiosis. Our goal is to provide a resource on current systems that can be used to study symbiosis and so submissions describing current systems without reported results are welcome. Accepted submissions will be presented as recorded videos prior to the workshop and used in the writing of a review article. Participants will also be welcomed to contribute to the review article. Abstracts must be submitted to vostinar@grinnell.edu by June 15, 2020. 
 
