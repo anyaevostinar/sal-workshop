@@ -7,7 +7,7 @@ The workshop will be held as part of the 2020 Conference on Artificial Life (ALI
 
 ## Schedule (in EDT)
 * 2:30-2:35: Welcome and explanation of process (Anya Vostinar)
-* 2:35-2:55: Keynote
+* 2:35-2:55: Keynote (Carl Zimmer)
 * 2:55-3:10: Speaker 1 (Luis Zaman)
 * 3:10-3:25: Speaker 2 (Erik Hom)
 * 3:25-3:40: Speaker 3 (Nadine Strasser)
