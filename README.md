@@ -8,9 +8,9 @@ The workshop will be held as part of the 2020 Conference on Artificial Life (ALI
 ## Schedule (in EDT)
 * 2:30-2:35: Welcome and explanation of process (Anya Vostinar)
 * 2:35-2:55: Keynote (Carl Zimmer)
-* 2:55-3:10: Speaker 1 (Luis Zaman)
-* 3:10-3:25: Speaker 2 (Erik Hom)
-* 3:25-3:40: "Detecting the genetic signature of cooperation from lineages" (Nadine Strasser)
+* 2:55-3:10: TBD (Luis Zaman)
+* 3:10-3:25: TBD (Erik Hom)
+* 3:25-3:40: "Detecting the genetic signature of mutualisms from lineages" (Nadine Strasser)
 * 3:40-3:55: "Symbulation: An Agent-based Simulation of Symbiosis" (Anya Vostinar)
 * 3:55-4:15: Break
 * 4:15-4:25: Collecting topics for discussion/break-out groups
