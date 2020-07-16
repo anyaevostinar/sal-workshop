@@ -26,11 +26,11 @@ The workshop will be held as part of the 2020 Conference on Artificial Life (ALI
 * ALIFE: July 13-18, 2020
 
 ## Organizers
-* Anya E. Vostinar, vostinar@grinnell.edu
+* Anya E. Vostinar, vostinar@carleton.edu
 * Luis Zaman, zamanlh@umich.edu
 * Erik Hom, erik@olemiss.edu 
 
 
 ## Submissions
-We welcome anyone to participate and encourage the submission of extended abstracts of 2-4 pages (MIT Press format). We are open to submissions concerning any way that artificial life can be used to study symbiosis. Our goal is to provide a resource on current systems that can be used to study symbiosis and so submissions describing current systems without reported results are welcome. Accepted submissions will be presented as recorded videos prior to the workshop and used in the writing of a review article. Participants will also be welcomed to contribute to the review article. Abstracts must be submitted to vostinar@grinnell.edu by June 15, 2020. 
+We welcome anyone to participate and encourage the submission of extended abstracts of 2-4 pages (MIT Press format). We are open to submissions concerning any way that artificial life can be used to study symbiosis. Our goal is to provide a resource on current systems that can be used to study symbiosis and so submissions describing current systems without reported results are welcome. Accepted submissions will be presented as recorded videos prior to the workshop and used in the writing of a review article. Participants will also be welcomed to contribute to the review article. Abstracts must be submitted to vostinar@carleton.edu by June 15, 2020. 
 
